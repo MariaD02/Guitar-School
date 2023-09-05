@@ -206,14 +206,14 @@ footer, header, hgroup, menu, nav, section {
 
 @font-face {
     font-family: "Unbounded";
-    src: url('../fonts/Unbounded-Regular.ttf');
+    src: url('../Fonts/Unbounded-Regular.ttf');
     font-weight: regular;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Unbounded";
-    src: url('../fonts/Unbounded-Medium.ttf');
+    src: url('../Fonts/Unbounded-Medium.ttf');
     font-weight: medium;
     font-style: medium;
 }
